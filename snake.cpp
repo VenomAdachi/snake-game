@@ -96,6 +96,7 @@ int main(){
         system("cls");
     }
     std::cout << "Test";
+    std::cout <<"Test 2";
     
 
     return 0;
