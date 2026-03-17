@@ -97,6 +97,8 @@ int main(){
     }
     std::cout << "Test";
     std::cout <<"Test 2";
+    std::cout <<"True Ultra Test 3";
+    std::cout <<"I think i understand how this works now poop oopp";
     
 
     return 0;
