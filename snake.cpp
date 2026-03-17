@@ -95,6 +95,7 @@ int main(){
         Gameobj.snakeobj.movement();
         system("cls");
     }
+    std::cout << "Test";
     
 
     return 0;
